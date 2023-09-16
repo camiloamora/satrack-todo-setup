@@ -28,7 +28,7 @@ Para la aplicación se hicieron las siguientes elecciones en tecnologías para c
 El demo de la aplicación esta funcionando en esta Url:
 [Demo App](https://satrack-app-todo.vercel.app/planning)
 
-## Plataformas de Nube
+## Tecnologías cloud utilizadas
 *   Para el despliegue de la base de datos se eligion mongo atlas por su facilidad de configuración y capa gratuita.
 *   Para el frontend se eligio vercel por su facilidad y capa gratuita
 *   Para el backend se eligio Azure con app services, por su facilidad de integración con .net y capa gratuita.

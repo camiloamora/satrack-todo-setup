@@ -33,4 +33,27 @@ El demo de la aplicación esta funcionando en esta Url:
 *   Para el frontend se eligio vercel por su facilidad y capa gratuita
 *   Para el backend se eligio Azure con app services, por su facilidad de integración con .net y capa gratuita.
 
+## Modelo de base de datos
+* Para la base de datos se utilizo el siguiente schema:
+
+ {
+  Id
+  Description
+  UserId
+  Category
+  Status
+  CreatedAtDate
+  DueDate
+}
+
+## Sistema de componentes
+* Para los componentes del frontend se utilizo una libreria propia para ciertos componentes:
+
+* ![image](https://github.com/camiloamora/satrack-todo-setup/assets/2391098/6655cd23-3a8f-47fa-b39f-628b6587c372)
+* Preview del diseño básico de la app
+
+* ![image](https://github.com/camiloamora/satrack-todo-setup/assets/2391098/ff36a338-ce39-463b-972a-1c0f3e209a9f)
+
+* ![image](https://github.com/camiloamora/satrack-todo-setup/assets/2391098/e22e9e04-60bc-488f-a8f4-5a285d3f8f4e)
+
 

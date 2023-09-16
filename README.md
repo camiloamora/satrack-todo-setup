@@ -49,7 +49,7 @@ El demo de la aplicación esta funcionando en esta Url:
 ```
 
 ## Sistema de componentes
-* Para los componentes del frontend se utilizo una libreria propia para ciertos componentes:
+* Para los componentes del frontend se utilizo una libreria propia para los componentes de la card, input para ingresar la card, componentes de layout (vertical/horizontal):
 
 * ![image](https://github.com/camiloamora/satrack-todo-setup/assets/2391098/6655cd23-3a8f-47fa-b39f-628b6587c372)
 * Preview del diseño básico de la app

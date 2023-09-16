@@ -36,15 +36,17 @@ El demo de la aplicación esta funcionando en esta Url:
 ## Modelo de base de datos
 * Para la base de datos se utilizo el siguiente schema:
 
+```bash
  {
-  Id
-  Description
-  UserId
-  Category
-  Status
-  CreatedAtDate
-  DueDate
+  Id,
+  Description,
+  UserId,
+  Category,
+  Status,
+  CreatedAtDate,
+  DueDate,
 }
+```
 
 ## Sistema de componentes
 * Para los componentes del frontend se utilizo una libreria propia para ciertos componentes:

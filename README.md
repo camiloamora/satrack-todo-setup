@@ -23,13 +23,13 @@ Para la aplicación se hicieron las siguientes elecciones en tecnologías para c
 * React-DatePicker
 * La tecnología escogida para el frontend fue Nextjs con react, css. [repo frontend](https://github.com/camiloamora/satrack-frontend)
 * La tecnología escogida para el backend fue :net core versión 7.0, para la organización del proyecto se escogio arquitecturas limpias [repo backend](https://github.com/camiloamora/satrack-backend)
-* La tecnología escogida para la base de datos fue mongodb, por la versatilidad en la estructura, y me evitaria un extra en el modelado y actualización de la base de datos.
+* La tecnología escogida para la base de datos fue mongodb, por la versatilidad en la estructura, y me evitaria un extra en el versionado y actualización de la base de datos.
 
 El demo de la aplicación esta funcionando en esta Url:
 [Demo App](https://satrack-app-todo.vercel.app/planning)
 
 ## Plataformas de Nube
-*   Para el despliegue de la base de datos se eligion mongo atlas por su facilida de configuración y capa gratuita.
+*   Para el despliegue de la base de datos se eligion mongo atlas por su facilidad de configuración y capa gratuita.
 *   Para el frontend se eligio vercel por su facilidad y capa gratuita
 *   Para el backend se eligio Azure con app services, por su facilidad de integración con .net y capa gratuita.
 
